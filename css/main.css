@@ -1,0 +1,19 @@
+body {
+	font-family: 'open-sans', sans-serif;
+}
+.title{
+	display: flex;
+	
+}
+#container{
+	display: flex;
+	flex-flow: column nowrap;
+	justify-content: center;
+	align-items: center;
+	width: 100vw;
+}
+
+.tweet{
+	display: flex;
+	flex-flow: column nowrap;
+}
